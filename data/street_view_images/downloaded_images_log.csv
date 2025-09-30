@@ -1,0 +1,26 @@
+image_path,road_name,start_intersection,end_intersection,latitude,longitude,heading,status
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.381191,-122.027311,88.70734455522057,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.3812,-122.026809,91.89670765545634,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.381191,-122.026467,110.94146302492095,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.381139,-122.026296,101.64365006537082,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.381111,-122.026125,103.84012713277878,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.381074,-122.025936,106.70893261556989,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.381022,-122.025718,97.36277173906899,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.380999,-122.025494,107.37759095749993,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.380952,-122.025305,106.53332270638253,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.380881,-122.025004,100.89444408435799,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.380816,-122.024579,110.22025092651774,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.380732,-122.024292,102.82689716607501,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.380584,-122.023474,105.8065672667355,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.380456,-122.022905,106.10214026985949,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.380328,-122.022347,105.30859486521933,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.380251,-122.021993,104.7459792314807,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.380123,-122.021381,105.71534744641656,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.379996,-122.020813,101.4424231708328,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.379927,-122.020384,109.24297757627647,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.379808,-122.019955,0.0,failed
+,California Ave,Sunnyvale Ave,Fair Oaks Ave,37.379808,-122.019955,104.88262097361286,failed
+,El Camino Real,El Monte Ave,San Antonio Rd,37.388836,-122.071745,233.61718499520376,failed
+,El Camino Real,El Monte Ave,San Antonio Rd,37.388555,-122.072225,233.61728755067008,failed
+,Foothill Blvd,Stevens Creek Blvd,I-280,37.357591,-122.074382,133.53434495633974,failed
+,Foothill Blvd,Stevens Creek Blvd,I-280,37.357301,-122.073998,130.56610151746287,failed

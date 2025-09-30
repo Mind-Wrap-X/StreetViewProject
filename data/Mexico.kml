@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Directions from Calle Chiriguano 192, Americas II, 56610 Xico, Méx., Mexico to Pte. 22-A 13, San Miguel Xico, 56613 Valle de Chalco Solidaridad, Méx., Mexico</name>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1267FF-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1267FF-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1267FF-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Directions from Calle Chiriguano 192, Americas II, 56610 Xico, Méx., Mexico to Pte. 22-A 13, San Miguel Xico, 56613 Valle de Chalco Solidaridad, Méx., Mexico</name>
+      <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -98.95647,19.28238,0
+          -98.95652,19.28206,0
+          -98.95668,19.2813,0
+          -98.95683,19.28038,0
+          -98.95687,19.27964,0
+          -98.9569,19.27934,0
+          -98.95699,19.27934,0
+          -98.95715,19.27936,0
+          -98.9573,19.27938,0
+          -98.95767,19.27942,0
+          -98.95768,19.27943,0
+          -98.95808,19.27948,0
+          -98.95822,19.2795,0
+          -98.9588,19.27956,0
+          -98.95888,19.27958,0
+          -98.95947,19.27967,0
+          -98.9597,19.2782,0
+          -98.95988,19.27702,0
+          -98.95991,19.27677,0
+          -98.96013,19.27531,0
+          -98.96027,19.2744,0
+          -98.96032,19.27408,0
+          -98.96037,19.27377,0
+          -98.96059,19.27235,0
+          -98.9608,19.27087,0
+          -98.96081,19.27061,0
+          -98.96099,19.26943,0
+          -98.96115,19.26839,0
+          -98.96123,19.26786,0
+          -98.96123,19.26785,0
+          -98.96144,19.26639,0
+          -98.96145,19.26618,0
+          -98.9615,19.2658,0
+          -98.96163,19.26489,0
+          -98.96212,19.26496,0
+          -98.96218,19.26461,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Calle Chiriguano 192, Americas II, 56610 Xico, Méx., Mexico</name>
+      <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -98.9564678,19.2823829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pte. 22-A 13, San Miguel Xico, 56613 Valle de Chalco Solidaridad, Méx., Mexico</name>
+      <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -98.9621756,19.264609,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

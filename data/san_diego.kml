@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Directions from 700 N Harbor Dr, San Diego, CA 92101, USA to 1355 N Harbor Dr, San Diego, CA 92101, USA</name>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1267FF-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1267FF-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1267FF-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Directions from 700 N Harbor Dr, San Diego, CA 92101, USA to 1355 N Harbor Dr, San Diego, CA 92101, USA</name>
+      <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -117.17293,32.7127,0
+          -117.17293,32.71274,0
+          -117.17293,32.71302,0
+          -117.17292,32.71348,0
+          -117.17292,32.71359,0
+          -117.17293,32.7137,0
+          -117.17294,32.71417,0
+          -117.17294,32.7142,0
+          -117.17296,32.71445,0
+          -117.17297,32.71463,0
+          -117.17297,32.71472,0
+          -117.17296,32.71514,0
+          -117.17296,32.7153,0
+          -117.17295,32.71535,0
+          -117.17295,32.71543,0
+          -117.17295,32.71552,0
+          -117.17296,32.71565,0
+          -117.17295,32.7158,0
+          -117.17295,32.71607,0
+          -117.17295,32.71612,0
+          -117.17295,32.71629,0
+          -117.17295,32.71646,0
+          -117.17295,32.71666,0
+          -117.17295,32.71712,0
+          -117.17293,32.7174,0
+          -117.17293,32.7175,0
+          -117.17293,32.71759,0
+          -117.17293,32.71771,0
+          -117.17293,32.71781,0
+          -117.17293,32.71784,0
+          -117.17286,32.71784,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>700 N Harbor Dr, San Diego, CA 92101, USA</name>
+      <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -117.1729318,32.7127005,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1355 N Harbor Dr, San Diego, CA 92101, USA</name>
+      <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -117.1728575,32.7178448,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
