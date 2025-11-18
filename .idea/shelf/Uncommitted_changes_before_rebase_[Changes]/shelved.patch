@@ -13,7 +13,7 @@ diff --git a/Main.ipynb b/Main.ipynb
      }
     },
 -   "source": [
--    "API_KEY=\"AIzaSyBoG_zELkZ7IU1H1xR_nZJiVXOizJu0og0\""
+-    "API_KEY=\"AIzaSyBoG_zELkZ7IU1H901xR_nZJiVXOizJu*****8\""
 -   ],
 +   "source": "API_KEY=\"\" # @todo: Type your own key",
     "outputs": [],
